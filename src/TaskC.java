@@ -1,6 +1,7 @@
 
-    import java.util.Scanner;
-    public class TaskC {
+import java.util.Scanner;
+
+public class TaskC {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             int n = scanner.nextInt(); // Кол-во школьников
